@@ -1,0 +1,48 @@
+h1 {
+    color: #000000;
+}
+
+a:link {
+    color: #000000;
+}
+
+a:visited {
+    color: #000000;
+}
+
+.projects p {
+    text-align: center;
+}
+
+.projects {
+    border: solid;
+    border-width: 2px;
+    width: 500px;
+    padding: 20px;
+    background-color: #fff5ec;
+    margin: 20px;
+}
+
+.projectsImg {
+    border: solid;
+    border-radius: 20px;
+    width: fit-content;
+    display: flex;
+    position: relative;
+    left: 70px;
+    margin: 10px;
+}
+
+.projectsImg:hover {
+    transform: scale(1.2);
+}
+
+.all {
+    display: flex;
+    justify-content: center;
+}
+
+.all2 {
+    display: flex;
+    justify-content: center;
+}
